@@ -1,0 +1,11 @@
+name: GuessWho
+version: '${project.version}'
+main: grapeapplefruit.main.Main
+api-version: 1.18
+commands:
+  duel:
+    description: Start a duel.
+  accept:
+    description: Accept a duel.
+  done:
+    description: Finish a duel.
